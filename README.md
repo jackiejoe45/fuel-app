@@ -9,7 +9,7 @@ Fuel Board Queue Monitor is an Electron-based desktop application that brings or
 - ➕ Add new vehicles to the appropriate queue
 - ⏭️ Move to the next vehicle in the queue
 - 🚫 Prevent duplicate entries in each queue
-- 🎨 User-friendly interface with color-coded queues (AGO: 💚, PMS: ❤️)
+- 🎨 User-friendly interface with color-coded queues (AGO: 🟢, PMS: 🔴)
 
 ## 🚀 Installation
 
@@ -20,8 +20,8 @@ Fuel Board Queue Monitor is an Electron-based desktop application that brings or
 ### Steps
 1. Clone the repository or download the source code:
    ```bash
-   git clone https://github.com/your-username/fuel-board-queue-monitor.git
-   cd fuel-board-queue-monitor
+   git clone https://github.com/jackiejoe45/fuel-app.git
+   cd fuel-app
    ```
 
 2. Install the dependencies:
@@ -72,9 +72,6 @@ Contributions to improve the Fuel Board Queue Monitor are welcome! Let's make it
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`) 💾
 4. Push to the branch (`git push origin feature/AmazingFeature`) 🚀
 5. Open a Pull Request 📬
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📄
 
 ## 🆘 Support
 If you encounter any problems or have any questions, please open an issue in the GitHub repository. We're here to help! 🦸‍♀️🦸‍♂️
